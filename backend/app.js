@@ -22,6 +22,8 @@ const allowedOrigins = new Set(
     .map((value) => value.trim())
     .filter(Boolean)
 );
+console.log('🔍 FRONTEND_URL raw:', JSON.stringify(process.env.FRONTEND_URL));
+console.log('🔍 Allowed origins set:', [...allowedOrigins]);
 
 const isOriginAllowed = (origin) => {
   if (!origin) return true;
