@@ -37,7 +37,7 @@ export default function Footer() {
                     <h4 className="footer-heading">Help & Support</h4>
                     <ul className="footer-links">
                         <li><a href="mailto:support@fleetiva.com">support@fleetiva.com</a></li>
-                        <li><a href="tel:+919876543210">+91 98765 43210</a></li>
+                        <li><a href="tel:+918080142291">+91 8080142291</a></li>
                         <li><Link to="/forgot-password">Reset Password</Link></li>
                     </ul>
                 </div>
