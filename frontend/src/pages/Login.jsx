@@ -261,7 +261,7 @@ export default function Login() {
             Contact the Fleetiva support team and we will help you regain access.
           </p>
           <div className="toolbar" style={{ flexWrap: "wrap", gap: 8 }}>
-            <span className="tag info">Phone: +91 98765 43210</span>
+            <span className="tag info">Phone: +91 8080142291</span>
             <span className="tag">Email: support@fleetiva.com</span>
           </div>
         </div>
